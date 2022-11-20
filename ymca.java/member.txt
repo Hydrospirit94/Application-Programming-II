@@ -1,0 +1,8 @@
+1111#Thomas Johnson#Single#23#Male#209.99#
+2222#Jane Williams#Single#42#Female#199.5#
+3333#John Atkins#Couple#25#Male#300.0#
+5555#Gregory Thomas#Family#45#Male#450.0#
+6666#William Hilling#Family#35#Male#325.0#
+7777#Karen Power#Couple#42#Female#199.8#
+8888#Marie Smith#Single#28#Female#209.0#
+9999#John Smith#Single#40#Male#500.07#
